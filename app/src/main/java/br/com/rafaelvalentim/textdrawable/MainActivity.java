@@ -27,5 +27,7 @@ public class MainActivity extends AppCompatActivity {
         img_quadrada.setImageDrawable(quadrada_draw);
         img_quad_red.setImageDrawable(quad_red_draw);
 
+        System.out.println("Commit");
+
     }
 }
